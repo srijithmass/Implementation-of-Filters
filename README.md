@@ -135,35 +135,35 @@ cv2.destroyAllWindows()
 
 ### Original Image
 
-![output](ss1.PNG)
+![output](ss1.png)
 
 ### 1. Smoothing Filters
 
 ### Using Averaging Filter
 
-![output](ss2.PNG)
+![output](ss2.png)
 
 ### Using Weighted Averaging Filter
 
-![output](ss3.PNG)
+![output](ss3.png)
 
 ### Using Gaussian Filter
 
-![output](ss4.PNG)
+![output](ss4.png)
 
 ### Using Median Filter
 
-![output](ss5.PNG)
+![output](ss5.png)
 
 ### 2. Sharpening Filters
 
 ### Using Laplacian Kernal
 
-![output](ss6.PNG)
+![output](ss6.png)
 
 ### Using Laplacian Operator
 
-![output](ss7.PNG)
+![output](ss7.png)
 
 ## Result:
 
